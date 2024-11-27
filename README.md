@@ -1,0 +1,2 @@
+# Predicting-Sleep-Deprivation-Impact-On-Labour-Productivity-Using-a-Hybrid-Model
+This project leverages a hybrid voting regressor model combining Random Forest, Support Vector Machine (SVM), and a Feed-Forward Neural Network (FNN) to accurately predict labour productivity. The hybrid model effectively captures complex, non-linear relationships in the data, enhancing prediction performance and generalization.
